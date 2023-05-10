@@ -12,7 +12,7 @@ public class Candidate {
     private double interviewScore;
     private boolean isIndianCitizen;
     
-    // Constructor
+   
     public Candidate(String name, String dob, String email, String phone, double hscAggregate, 
                      double pcmPcbAverage, double ugCgpa, double pgCgpa, int numProjects, 
                      boolean isFullTime, double interviewScore, boolean isIndianCitizen) {
@@ -30,7 +30,7 @@ public class Candidate {
         this.isIndianCitizen = isIndianCitizen;
     }
     
-    // Getter methods
+ 
     public String getName() {
         return name;
     }
