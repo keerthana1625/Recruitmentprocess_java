@@ -3,17 +3,17 @@ import java.util.List;
 public class Main {
         public static void main(String[] args) {
 
-                Candidate candidate1 = new Candidate("Keerthana", "1998-05-21", "john@gmail.com", "1234567890", 75, 65, 9,
+                Candidate candidate1 = new Candidate("John", "1998-05-21", "john@gmail.com", "1234567890", 75, 65, 9,
                                 8.5, 3,
                                 true, 40, true);
-                Candidate candidate2 = new Candidate("Sri", "2000-09-10", "mary@gmail.com", "2345678901", 80, 55, 8, 8,
+                Candidate candidate2 = new Candidate("Mary", "2000-09-10", "mary@gmail.com", "2345678901", 80, 55, 8, 8,
                                 2,
                                 true, 50, true);
 
-                Candidate candidate3 = new Candidate("pavithra", "2000-09-10", "mary@gmail.com", "2345678901", 70, 60, 8.5,
+                Candidate candidate3 = new Candidate("Alex", "2000-09-10", "alex@gmail.com", "2345678901", 70, 60, 8.5,
                                 7, 1,
                                 false, 30, true);
-                Candidate candidate4 = new Candidate("Sam", "2002-02-14", "alice@gmail.com", "4567890123", 55, 50,
+                Candidate candidate4 = new Candidate("Alice", "2002-02-14", "alice@gmail.com", "4567890123", 55, 50,
                                 8.5, 8, 2,
                                 true, 45, true);
 
